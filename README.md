@@ -10,8 +10,6 @@ Como não temos uma tentativa de prever um dado, não utilizarei modelos de mach
 # 🔰Sobre este projeto
 O principal deste projeto é apresentar os diferentes grupos e suas aderências aos canais de venda.
 
-Os 3 datasets e suas colunas explicadas
-
 # 📖Informações do conjunto de dados
 
 Os 3 datasets e suas colunas explicadas
