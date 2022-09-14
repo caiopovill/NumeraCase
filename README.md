@@ -1,4 +1,4 @@
-# DatasetStudent
+# NumecaCase
 
 # 📘Abstrato
 Como parte do processo seletivo, fiz uma análise dos datasets fornecidos para encontrar as melhores estratégias de vendas.
